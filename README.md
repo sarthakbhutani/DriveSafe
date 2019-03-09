@@ -7,13 +7,22 @@ we need some data to operate on, we need data to train our model to work efficie
  so we created a bare minimum prototype using AR, Unity3d & Vuforia SDK, to check, if the app was worth making.
 
 * For creation of the prototype, we initially collected data and by using Vuforia SDK checked for
-unique features via which AR Camera can recognize the potholes or lane
+unique features via which AR Camera can recognize the potholes or lane.
+
+-----
+
+
+![features](https://user-images.githubusercontent.com/31439780/54066711-e94ae400-425a-11e9-91d8-db4c8b7a3e84.PNG)
 
 * Then, we decided on the 3D model to display for pothole detection & lane assist as 3-D models 
 are easier to see than that of 2-D models.
 
 * After collecting some more data, we worked to refine our model even more to calibrate it according to India’s topology.
 
------------
+-----
 
 ### We are in the process of adding GPS functionality to the app itself.
+
+-----
+
+[Link For APK & Target Images](https://drive.google.com/drive/folders/1CIqnSIrC0jMfNYpXtvE8aIN9z06I0sIQ)
